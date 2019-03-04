@@ -1,0 +1,10 @@
+C:\Users\jsc10\source\repos\Roulette\Roulette\bin\Debug\Roulette.exe.config
+C:\Users\jsc10\source\repos\Roulette\Roulette\bin\Debug\Roulette.exe
+C:\Users\jsc10\source\repos\Roulette\Roulette\bin\Debug\Roulette.pdb
+C:\Users\jsc10\source\repos\Roulette\Roulette\obj\Debug\Roulette.csprojAssemblyReference.cache
+C:\Users\jsc10\source\repos\Roulette\Roulette\obj\Debug\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\jsc10\source\repos\Roulette\Roulette\obj\Debug\Roulette.exe
+C:\Users\jsc10\source\repos\Roulette\Roulette\obj\Debug\Roulette.pdb
+C:\Users\jsc10\source\repos\Roulette\Roulette\bin\Debug\RouletteCL.dll
+C:\Users\jsc10\source\repos\Roulette\Roulette\bin\Debug\RouletteCL.pdb
+C:\Users\jsc10\source\repos\Roulette\Roulette\obj\Debug\Roulette.csproj.CopyComplete

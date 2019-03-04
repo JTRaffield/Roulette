@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roulette", "Roulette\Roulette.csproj", "{67198696-6FE3-412D-BC57-2D3B3931F6DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouletteCL", "RouletteCL\RouletteCL.csproj", "{DEBFE9E0-A907-4E12-ABC6-88079822C091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67198696-6FE3-412D-BC57-2D3B3931F6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67198696-6FE3-412D-BC57-2D3B3931F6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67198696-6FE3-412D-BC57-2D3B3931F6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67198696-6FE3-412D-BC57-2D3B3931F6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBFE9E0-A907-4E12-ABC6-88079822C091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBFE9E0-A907-4E12-ABC6-88079822C091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBFE9E0-A907-4E12-ABC6-88079822C091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBFE9E0-A907-4E12-ABC6-88079822C091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65342699-3CB4-4B61-A55C-FCB16E334487}
+	EndGlobalSection
+EndGlobal

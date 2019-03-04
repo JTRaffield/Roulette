@@ -1,0 +1,6 @@
+C:\Users\jsc10\source\repos\Roulette\RouletteCL\bin\Debug\RouletteCL.dll
+C:\Users\jsc10\source\repos\Roulette\RouletteCL\bin\Debug\RouletteCL.pdb
+C:\Users\jsc10\source\repos\Roulette\RouletteCL\obj\Debug\RouletteCL.csprojAssemblyReference.cache
+C:\Users\jsc10\source\repos\Roulette\RouletteCL\obj\Debug\RouletteCL.csproj.CoreCompileInputs.cache
+C:\Users\jsc10\source\repos\Roulette\RouletteCL\obj\Debug\RouletteCL.dll
+C:\Users\jsc10\source\repos\Roulette\RouletteCL\obj\Debug\RouletteCL.pdb
