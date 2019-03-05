@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace RouletteCL
 {
+//Names should be a little more desriptive of what is happening. (e.g. RollingWheel table1/ Bets placedBets)
     public class Result
     {
         public string Color { get; set; }
@@ -17,7 +18,8 @@ namespace RouletteCL
         public Result Wheel()
 
         {
-           
+//Work on separation of responsibility. The Rolling class could work like a constructor and hold the Properties, then you would not need
+//to initialize the same things twice. (In the Program.cs and this file)
             Rolling Wheel = new Rolling();
             Bets bet = new Bets();
             Result result = new Result();
@@ -53,6 +55,7 @@ namespace RouletteCL
                     Console.WriteLine($"You landed on 0");
                     Console.ReadLine();
                 }
+                //else if
                 if (result.Number == 38)
                 {
                     Console.WriteLine($"You landed on 00");
@@ -71,8 +74,10 @@ namespace RouletteCL
 
                 if (Input == "Y")
                 {
+                    //Look for a way to make this selection code into a loop. Here It only goes through twice and thats it
                     Wheel.Wheel();
                 }
+                //else if or else
                 if (Input == "N")
                 {
                     Console.WriteLine($"Thanks for playing!");
